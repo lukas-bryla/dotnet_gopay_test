@@ -1,0 +1,8 @@
+﻿GoPayIntegration/
+├── Controllers/                # API controllers
+│   └── PaymentController.cs
+├── Models/                     # Data models
+│   └── PaymentRequest.cs
+├── Program.cs                 # Entry point and app configuration
+├── GoPayIntegration.csproj     # Project file
+└── appsettings.json           # Configuration settings

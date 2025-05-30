@@ -1,0 +1,6 @@
+@GoPayIntegration_HostAddress = http://localhost:5122
+
+GET {{GoPayIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
